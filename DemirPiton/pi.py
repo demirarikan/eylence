@@ -1,8 +1,10 @@
 import random
 import math
 
+print("Please enter the numbers of points to approximate pi:")
+b = int(input())
 a = 0
-b = 100000
+
 for i in range(b):
     x = random.random()
     y = random.random()
