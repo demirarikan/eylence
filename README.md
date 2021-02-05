@@ -6,20 +6,25 @@ Atamert Demir takilmaca
 
 ### Compiling ###
 
+To test the entropy of the random number generator of your pc, you should compile with 'make'
+
+Or alternatively:
 Go into '/src' and compile the C++ code however you like! Like:
   * 'cd /src'
   * 'c++ circle.cpp'
   * './a.out'
-  
+
 ### Execution ###
 
-Just execute it! What are you waiting for, JUST DO IT!
+After compilation, you can run it by './main' from the root directory '/'
+
+Or, of course, just execute it! What are you waiting for, JUST DO IT!
   * './a.out'
 
 ## Licensce ##
 
 Did anyone said license? What is it?
 
-## TODOs ## 
+## TODOs ##
 
-Implement the Makefile or other compilation tool for better user experience! And calculate pi of course.. DO IT!
+calculate pi.. DO IT!
